@@ -8,9 +8,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -34,7 +32,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Create a simple SSO using Laravel Demo.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -45,7 +43,14 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+- Composer
+- Laravel
+- PHP
+- MySQL
+- NodeJS
+- NPM
+
+```
 ```
 
 ### Installing
@@ -55,60 +60,33 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+- git clone
+- composer install
+- npm install
+- npm run dev
+- php artisan migrate
+- php artisan serve
 ```
-
-And repeat
-
 ```
-until finished
+Note: Put your database credentials in .env file
+Note: Put your service1 folder at htdocs
 ```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+```
+- Open browser and type http://localhost:8000
+- Click on Register
+- Register a new user
 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Laravel](https://laravel.com/) - Web Framework
+- [Composer](https://getcomposer.org/) - Dependency Management
+- [PHP](https://www.php.net/) - Programming Language
+- [MySQL](https://www.mysql.com/) - Database
+- [NodeJS](https://nodejs.org/en/) - JavaScript Runtime
+- [NPM](https://www.npmjs.com/) - Package Manager
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@IsmailBery](https://github.com/IsmailBery) - Idea & Initial work
