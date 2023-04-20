@@ -14,10 +14,12 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> in this project we will create a simple SSO using Laravel Demo.
     <br> 
+You can inject this code to use SSO in another project (service2)
 </p>
 
+ <img width=200px height=200px src="code.jpg" alt="Project logo"></a>
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -71,6 +73,9 @@ Note: Put your service1 folder at htdocs
 
 ```
 
+```
+```
+```
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Laravel](https://laravel.com/) - Web Framework
