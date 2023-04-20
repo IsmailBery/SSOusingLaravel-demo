@@ -19,7 +19,7 @@
 You can inject this code to use SSO in another project (service2)
 </p>
 
- <img width=200px height=200px src="code.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="/code.jpg" alt="SSO Code"></a>
 ## 📝 Table of Contents
 
 - [About](#about)
