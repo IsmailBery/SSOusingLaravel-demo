@@ -19,7 +19,7 @@
 You can inject this code to use SSO in another project (service2)
 </p>
 
- <img width=200px height=200px src="/code.jpg" alt="SSO Code"></a>
+ ![code](https://user-images.githubusercontent.com/97093142/233444628-668fcdb4-ccbf-4e45-b299-5c1ec9dd9e16.png)
 ## 📝 Table of Contents
 
 - [About](#about)
