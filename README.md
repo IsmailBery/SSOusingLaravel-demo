@@ -22,8 +22,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [TODO](../TODO.md)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -82,6 +80,3 @@ Note: Put your service1 folder at htdocs
 - [NodeJS](https://nodejs.org/en/) - JavaScript Runtime
 - [NPM](https://www.npmjs.com/) - Package Manager
 
-## ✍️ Authors <a name = "authors"></a>
-
-- [@IsmailBery](https://github.com/IsmailBery) - Idea & Initial work
